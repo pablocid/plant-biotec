@@ -1,0 +1,32 @@
+.inner-banner {
+	background:#38C57A;
+	padding: 83px 0;
+	.title {
+		h3 {margin: 0;font-size: 30px;font-weight: 600;font-family: $poppins;color: #fff;margin: 0;}
+	}
+	.breadcumb {
+		ul {margin: 0;}
+		li {
+			padding: 0 0;
+			a, span {display: block;font-size: 14px;color: #FFFFFF;line-height: 33px;}
+			a:after {
+				content: '/';
+				margin-left: 7px;
+			}
+		}
+	}
+}
+
+.inner-banner.gray-bg {
+	background:#F9F9F9;
+	.title {
+		h3 {color: #323232;}
+	}
+	.breadcumb {
+		a, span {color: #38C57A;}
+	}
+}
+
+.inner-banner.blue-bg {
+	background:#86CCCC;
+}

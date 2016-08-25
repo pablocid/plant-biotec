@@ -1,0 +1,21 @@
+.chart-section {}
+.chart-text-right {
+	padding-top: 60px;
+	h3 {font-size: 24px;color: #323232;font-weight: 600;margin: 0;margin-bottom: 22px;}
+	p {font-family: 'Open Sans';color: #777777;font-size: 14px;line-height: 26px;margin: 0;}
+	h4 {font-size: 16px;line-height: 26px;color: #323232;font-weight: 600;margin: 0;margin-top: 26px;}
+	.icon-box-wrapper {
+		margin: 0;padding: 0;list-style: none;margin-top: 22px;
+		li {
+			display: inline-block;
+			padding-right: 125px;
+			&:last-child {padding-right: 0;}
+			.icon-box {
+				margin-bottom: 7px;
+				i {font-size: 25px;color: #b2b7bc;}
+				span {color: #27ae61;font-size: 26px;font-weight: 600;line-height: 26px;font-family: $poppins;}
+			}
+			p {font-size: 12px;text-transform: uppercase;color: #323232;letter-spacing: .02em;font-weight: 500;margin: 0;}
+		}
+	}
+}

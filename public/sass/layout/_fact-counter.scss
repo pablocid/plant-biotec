@@ -1,0 +1,25 @@
+.fact-counter {
+    background: #38c57a;
+    padding-top: 95px;
+    padding-bottom: 102px;
+}
+
+.single-fact-counter {
+    border-right: 1px solid rgba(#fff, .3);
+    h3 {
+        font-size: 30px;
+        font-weight: 600;
+        color: #fff;
+        line-height: 24px;
+        margin: 0;
+    }
+    p {
+        color: #fff;
+        font-size: 13px;
+        line-height: 24px;
+        font-weight: 600;
+        margin: 0;
+        text-transform: uppercase;
+    }
+}
+.single-fact-counter.no-border {border: none;}

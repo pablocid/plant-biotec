@@ -1,0 +1,58 @@
+.promo-area {
+    background: $thm-color-2;
+}
+
+.promo-area .title {
+    margin-bottom: 75px;
+}
+
+.promo-area .title h3 {
+    font-family: $poppins;
+    color: $thm-color-1;
+    font-weight: 600;
+    font-size: em(25);
+    margin: 0;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.promo-area .single-promo {
+    background: #FFFFFF;
+    padding: 54px 48px;
+}
+
+.promo-area .single-promo img {
+    margin-bottom: 28px;
+}
+
+.promo-area .single-promo h3 {
+    font-size: em(18);
+    color: $thm-color-1;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: $poppins;
+    margin: 0;
+}
+
+.promo-area .single-promo p {
+    font-size: em(14);
+    color: $text-color;
+    font-family: $opensans;
+    line-height: em(24);
+    margin: 0;
+    margin-top: 17px;
+}
+
+.promo-area .single-promo ul {
+    padding-left: 15px;
+    margin-top: 17px;
+    li {
+        color: #000;
+        font-size: em(14);
+        color: $text-color;
+        font-family: $poppins;
+        line-height: em(28);
+        margin: 0;
+        font-weight: 500;
+    }
+}

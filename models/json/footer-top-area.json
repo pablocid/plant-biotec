@@ -1,0 +1,51 @@
+{
+   "logo":"img/logo.png",
+   "logoLink":"/",
+   "frase":"Las frases inspiradoras",
+   "social":[
+      {
+         "net":"facebook",
+         "link":"/"
+      },
+      {
+         "net":"twitter",
+         "link":"/"
+      }
+   ],
+   "contact":[
+      {
+         "label":"Address",
+         "items":[
+            "INIA La Platina. Santa Rosa 11610 La Pintana, Santiago, Chile"
+         ]
+      },
+      {
+         "label":"Email Us",
+         "items":[
+            "hprieto@inia.cl",
+            "micco-nezia@inia.cl",
+            "eve@inia.cl"
+         ]
+      },
+      {
+         "label":"Call Us",
+         "items":[
+            "+(10) 123 456 7896"
+         ]
+      }
+   ],
+   "quicklinks":[
+      {
+         "label":"FONDEF",
+         "link":"http://www.conicyt.cl/fondef/"
+      },
+      {
+         "label":"CONICYT",
+         "link":"http://www.conicyt.cl/"
+      },
+      {
+         "label":"SanidadVegetal CL",
+         "link":"http://www.sanidadvegetal.cl/"
+      }
+   ]
+}

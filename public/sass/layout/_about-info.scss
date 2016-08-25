@@ -1,0 +1,12 @@
+.about-info {
+	.right-text {
+		padding-left: 20px;
+		.sec-title {margin: 0;margin-bottom: 19px;
+			p {font-size: 14px;color: #38C57A;margin-bottom: 8px;}
+		}
+		p {margin: 0;color: #777777;font-size: 14px;line-height: 26px;letter-spacing: -.02em;margin-bottom: 30px;}
+		.btn {background:#38C57A;color: #fff;font-size: 16px;font-weight: 600;padding: 0;border: none;border-radius: 5px;padding: 14px 31px;-webkit-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; 
+			&:hover {background:$thm-color-1;}
+		}
+	}
+}

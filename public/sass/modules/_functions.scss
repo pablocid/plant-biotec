@@ -1,0 +1,22 @@
+
+// em converter Styles
+
+$browser-context: 16;
+
+@function em($pixels, $context: $browser-context) {
+  @return ($pixels / $context) * 1em;
+}
+
+@mixin anim($d: .3s) {
+	-webkit-transition: all $d ease;
+	-moz-transition: all $d ease;
+	-ms-transition: all $d ease;
+	transition: all $d ease;
+}
+
+@mixin sqrRund ($v, $r) {
+	width: $v;
+	height: $v;
+	border-radius: $r;
+}
+

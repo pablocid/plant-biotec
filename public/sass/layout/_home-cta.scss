@@ -1,0 +1,5 @@
+.home-cta {background:$thm-color-5;padding: em(45) 0;
+	p {color: #FFFFFF;font-size: em(22);font-weight: 500;letter-spacing: -0.02em;margin: 0;line-height: em(40);}
+	.btn {border: 2px solid #FFFFFF;font-size: em(15);font-weight: 500;background: none;outline: none;color: #fff;border-radius: 0;padding: 18px 46px;@include anim(.4s);}
+	.btn:hover {background:#16c6cc;border-color: #16c6cc;}
+}

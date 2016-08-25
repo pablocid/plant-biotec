@@ -1,0 +1,24 @@
+<section id="top-bar">
+	<div class="auto-container clearfix">
+		<div class="left-info pull-left">
+			<p>Laboratory Plant Biotechnology </p>
+		</div>
+		<div class="right-info pull-right">
+			<ul>
+				<li>
+					<i class="icon-man"></i>
+					<a href="#">login</a>
+					<!--<a href="#">register</a>-->
+				</li>
+				<li>
+					<i class="icon-globe"></i>
+					<select class="selectpicker" title="Language">
+					  <option>English</option>
+					  <!--<option>Arabic</option>
+					  <option>Hindi</option>-->
+					</select>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>

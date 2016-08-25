@@ -1,0 +1,13 @@
+.team-section {
+	background: $thm-color-1 url(../img/patterns/4.jpg) center top no-repeat;
+    background-size: cover;
+    .owl-carousel .owl-item img {width: auto;display: inline;}
+    .owl-theme .owl-dots .owl-dot span {width: 7px;height: 7px;background:#38C57A;border: 1px solid #38C57A;}
+    .owl-theme .owl-dots .owl-dot.active span {background-color: transparent;}
+}
+
+.single-team-carousel {
+	img {width: auto;}
+	h3 {margin: 0;font-size: 16px;font-weight: 600;color: #fff;margin-top: 18px;margin-bottom: 5px;}
+	p {font-family: 'Open Sans';color: #AAAAAA;font-weight: 600;letter-spacing: .02em;font-size: 13px;}
+}

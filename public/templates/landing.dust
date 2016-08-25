@@ -1,0 +1,12 @@
+{>"layouts/master" /}
+
+{<body}
+	{>"layouts/top-bar" /}
+	{>"layouts/menu-bar" /}
+
+
+
+	{>"layouts/footer-top-area" /}
+	{>"layouts/footer-bottom-area" /}
+
+{/body}

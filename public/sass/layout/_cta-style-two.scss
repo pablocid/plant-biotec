@@ -1,0 +1,14 @@
+.cta-style-two {
+	padding: 84px 0;
+	.left-title {
+		h3, p {margin: 0;}
+		h3 {font-size: 28px;color: #38C57A;font-weight: 600;line-height: 30px;margin-bottom: 3px;}
+		p {color: #777777;font-size: 16px;line-height: 30px;}
+	}
+	.cta-button {
+		padding: 6px 0;
+		.btn {background:#38C57A;color: #fff;font-size: 16px;font-weight: 600;padding: 0;border: none;border-radius: 5px;padding: 14px 31px;-webkit-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; 
+			&:hover {background:$thm-color-1;}
+		}
+	}
+}
